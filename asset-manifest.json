@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amitswami123/quiz-app/static/css/main.e20c0a75.chunk.css",
+    "main.js": "/amitswami123/quiz-app/static/js/main.93eea039.chunk.js",
+    "main.js.map": "/amitswami123/quiz-app/static/js/main.93eea039.chunk.js.map",
+    "runtime-main.js": "/amitswami123/quiz-app/static/js/runtime-main.40822236.js",
+    "runtime-main.js.map": "/amitswami123/quiz-app/static/js/runtime-main.40822236.js.map",
+    "static/js/2.690ae1f3.chunk.js": "/amitswami123/quiz-app/static/js/2.690ae1f3.chunk.js",
+    "static/js/2.690ae1f3.chunk.js.map": "/amitswami123/quiz-app/static/js/2.690ae1f3.chunk.js.map",
+    "index.html": "/amitswami123/quiz-app/index.html",
+    "static/css/main.e20c0a75.chunk.css.map": "/amitswami123/quiz-app/static/css/main.e20c0a75.chunk.css.map",
+    "static/js/2.690ae1f3.chunk.js.LICENSE.txt": "/amitswami123/quiz-app/static/js/2.690ae1f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/amitswami123/quiz-app/static/media/bg.ab549a14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40822236.js",
+    "static/js/2.690ae1f3.chunk.js",
+    "static/css/main.e20c0a75.chunk.css",
+    "static/js/main.93eea039.chunk.js"
+  ]
+}
