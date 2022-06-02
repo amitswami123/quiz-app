@@ -7,7 +7,7 @@ const Footer = () => {
         color:"black"
       }}
     >
-      Spread ❤ With Prakash Dhayal
+      Spread ❤ With Amit Swami || copyright @ amit
     </div>
   );
 };
