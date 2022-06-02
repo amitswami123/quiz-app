@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+body::-webkit-scrollbar {
+    width: 0px;
+}
+
+.app {
+    min-height: 98.5vh;
+    border: 8px solid #39445a93;
+    margin: 5px;
+    padding: 5px;
+    background-image: url(./Data/photos/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
